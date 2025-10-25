@@ -491,7 +491,6 @@ export default function CollagePage() {
                 transition={{ delay: 1 }}
                 className="absolute bottom-20 md:bottom-24 text-white/50 text-xs md:text-sm font-caveat"
               >
-                <p>Press ESC to close • Use arrow keys to navigate</p>
               </motion.div>
             </motion.div>
           )}
